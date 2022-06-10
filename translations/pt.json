@@ -1,0 +1,10 @@
+{
+    "translation": {
+        "taskOwned": "Você tem",
+        "task": "tarefa",
+        "tasks": "tarefas",
+        "todo": {
+            "addNew": "Adicionar novo Todo"
+        }
+    }
+}
